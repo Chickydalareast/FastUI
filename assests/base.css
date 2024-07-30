@@ -1,0 +1,18 @@
+:root{
+    
+    --black-el:#252432;
+    --white-el:#FFFFFF;
+    --gray-el:#F5F8FF;
+    --purple-el:#5B54FF;
+    --gray-purple-el:#8987A1;
+}
+html,body{
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    background-color: var(--gray-el);
+}
+.wrapper{
+    max-width: 1216px;
+    width: 100%;
+    margin-inline: auto;
+}
